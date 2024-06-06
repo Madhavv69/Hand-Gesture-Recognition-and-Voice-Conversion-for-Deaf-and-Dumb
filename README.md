@@ -12,7 +12,7 @@ This project aims to assist individuals who are deaf and dumb by recognizing han
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/Hand-Gesture-Recognition-and-Voice-Conversion-for-Deaf-and-Dumb.git
+    git clone https:https://github.com/Madhavv69/Hand-Gesture-Recognition-and-Voice-Conversion-for-Deaf-and-Dumb.git
     cd Hand-Gesture-Recognition-and-Voice-Conversion-for-Deaf-and-Dumb
     ```
 
